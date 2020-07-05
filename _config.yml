@@ -102,5 +102,4 @@ deploy:
   repo: git@github.com:haohaodata/haohaodata.github.io.git
   branch: master
 
-# 
 word_count: true
